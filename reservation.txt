@@ -1,0 +1,6 @@
+YOUR RANDOM CITYTRIP RESERVATION
+Name: Bas
+City: Barcelona
+Distance from Amsterdam: 1539km
+Vehicle: hovercraft
+Price: €12312
